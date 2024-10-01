@@ -1,4 +1,4 @@
-![flask products](https://github.com/user-attachments/assets/92833dbc-a4de-4c3f-841f-b0188ec1ae7b)## MyShop Ecommerce Store
+## MyShop Ecommerce Store
 
 ## Project Description:
 MyShop is a comprehensive e-commerce platform where users can easily register, log in, explore products by category, search for specific items, and complete secure purchases through Stripe payment integration. 
@@ -12,15 +12,15 @@ It offers a seamless shopping experience designed for convenience and user satis
 - Stripe API
 
 ## Key Features:
-### User Authentication
+### 1. User Authentication
 Secure registration and login for personalized shopping.
-### Product Categories
+### 2. Product Categories
 Browse a wide range of products organized by category.
-### Product Search Functionality
+### 3. Product Search Functionality
 Quickly find desired items with advanced search options.
-### Shopping Cart
+### 4. Shopping Cart
 Easily manage selected items for a streamlined checkout process.
-### Stripe Payment Integration
+### 5. Stripe Payment Integration
 Secure and seamless payment handling through Stripe.
 
 ## Screencaps
